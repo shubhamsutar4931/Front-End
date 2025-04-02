@@ -1,0 +1,43 @@
+h1{
+    color:red;
+}
+p{
+    color: rgb(216, 109, 109);
+}
+body{
+    background-color:rgb(255,255, 0);
+}
+button
+{
+    color: #00ff00;
+    background-color: beige;
+}
+#h5{
+    text-align:center;
+    text-decoration: line-through;
+}
+p{
+    text-align: center;
+}
+#h1{
+    font-weight: normal;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight: 100-900;
+}
+#one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#two{
+    font-family: arial;
+}
+/* button{
+    color: cyan;
+    background-color: #ffff00
+} */

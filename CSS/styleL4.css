@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction:row; 
+    flex-wrap: wrap;  
+    align-items: center;
+    align-content: center;
+}
+#box1{
+    background-color: chartreuse;
+}
+#box2{
+    background-color:pink;
+    height: 200px;
+    flex-shrink: 1;
+}
+#box3{
+    background-color:blueviolet;
+    height: 50px;
+}
+#box4{
+    background-color:paleturquoise;
+}
+#box5{
+    background-color:chocolate;
+}

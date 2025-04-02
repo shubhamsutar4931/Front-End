@@ -1,0 +1,14 @@
+#box
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(235, 235, 18);
+    border: 2px solid black;
+}
+.para{
+    background-color: aqua;
+}
+.para1
+{
+    background-color: blueviolet;
+}

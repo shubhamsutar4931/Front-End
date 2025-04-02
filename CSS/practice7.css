@@ -1,0 +1,23 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}   
+@media(max-width:300px)
+{
+    div{
+        background-color: blueviolet;
+    }
+}
+@media(min-width:300px)and(max-width:300px)
+{
+    div{
+        background-color: blue;
+    }
+}
+@media(min-width:600px)
+{
+    div{
+        background-color: rgb(45, 35, 54);
+    }
+}
